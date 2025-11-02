@@ -16,5 +16,11 @@
         "key": "SAGAR11",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a75fabb0995f45ce",
+        "key": "LUCKY11",
+        "expirydate": "3-11-2025",
+        "Allowoffline": false
     }
 ]
