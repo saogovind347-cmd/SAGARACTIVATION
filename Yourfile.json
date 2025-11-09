@@ -22,5 +22,11 @@
         "key": "LUCKY11",
         "expirydate": "3-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ba7307d37f91e34c",
+        "key": "SSG1",
+        "expirydate": "20-11-2025",
+        "Allowoffline": false
     }
 ]
